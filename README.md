@@ -43,7 +43,7 @@ The VacuumCleanerAgent is a Python class that simulates the behavior of a basic 
 <p>Measure the performance parameters: For each cleaning performance incremented, for each movement performance decremented</p>
 
 ## CODE:
-```
+```PY
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
