@@ -87,6 +87,7 @@ agent.print_status()
 <table border=3>
 <tr>
 <td >
+
   
 ```
 Location: A, Dirt Status: {'A': True, 'B': True}, Perfomance Measure: -1         
