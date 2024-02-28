@@ -93,7 +93,7 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ## Output:
-```
+
 <table border=3>
 <tr>
 <td >
@@ -106,11 +106,11 @@ Location: B, Dirt Status: {'A': False, 'B': True}, Perfomance Measure: 8
 Sucked dirt in location B
 Location: B, Dirt Status: {'A': False, 'B': False}, Perfomance Measure: 18
 Location: B, Dirt Status: {'A': False, 'B': False}, Perfomance Measure: 18
+
 ```
 </td>
 </tr> 
 </table>
 
-```
 ## Result:
 Thus python program for Developing AI Agent with PEAS Description for Vaccum Cleaner agent successfully runned.
